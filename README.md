@@ -13,19 +13,6 @@ A **Root Cause Analysis (RCA) Dashboard** built using **Spring Boot** for identi
 - 🧪 Includes unit tests for application stability  
 
 ---
-
-## 🧩 Tech Stack
-
-| Layer | Technology |
-|-------|-------------|
-| Backend | Spring Boot (Java) |
-| Build Tool | Maven |
-| View Layer | Thymeleaf / HTML / CSS / JS |
-| Configuration | `application.properties` |
-| Testing | JUnit (Spring Test) |
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -55,7 +42,7 @@ rca-dashboard/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/rca-dashboard.git
+git clone https://github.com/<Manasa-bm>/rca-dashboard.git
 cd rca-dashboard
 ```
 
