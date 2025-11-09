@@ -42,7 +42,7 @@ rca-dashboard/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/<Manasa-bm>/rca-dashboard.git
+git clone https://github.com/Manasa-bm/rca-dashboard.git
 cd rca-dashboard
 ```
 
